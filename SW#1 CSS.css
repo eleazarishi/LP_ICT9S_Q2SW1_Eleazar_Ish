@@ -1,0 +1,20 @@
+body {
+	background-color: #e6dfe1;
+}
+
+h1 {
+   font-family: Bebas;
+   color: lightcoral;
+   margin-left:20px;
+   letter-spacing: 3px;
+}
+th {
+   font-family: Chalkboard SE;
+   color: lightcoral;
+   margin-left: 20px;
+}
+td {
+   font-family: Arial;
+   color: black;
+   margin-left: 20px;
+}
